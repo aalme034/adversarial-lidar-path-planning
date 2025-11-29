@@ -16,7 +16,6 @@ Official code for the paper:
 **Adversarial Perturbations on Sensor Data for Compromising Robotic Path Planning in Simulated Environments**  
 Alejandro Almeida¹², Daniel Aviles Rueda²  
 ¹Analytics for Cyber Defense Lab – ²Florida International University  
-Accepted version (2025)
 
 <img width="3010" height="1119" alt="Test Success Rate Across Runs with PGD (1)" src="https://github.com/user-attachments/assets/697d2ea8-d515-40b5-b4a5-ac3e607ba848" />
 
