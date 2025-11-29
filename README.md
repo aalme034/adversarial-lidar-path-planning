@@ -53,6 +53,6 @@ Accepted version (2025)
 git clone https://github.com/yourusername/adversarial-lidar-path-planning.git
 cd adversarial-lidar-path-planning
 pip install -r requirements.txt
-
+python adversarial_lidar_robotics.py
 
 
